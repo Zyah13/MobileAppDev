@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { StyleSheet, View, Text, Image, TouchableOpacity, Alert } from 'react-native';
 
 const Home = () => {
